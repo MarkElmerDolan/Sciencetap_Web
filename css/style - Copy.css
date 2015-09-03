@@ -1,0 +1,46 @@
+html, body{
+	min-height: 100%;
+	height: 100%;
+	margin: 0px;
+	color: black;
+	background: linear-gradient(#2a96c8, lightgreen);
+}
+
+#bg{
+	background: url('../../img/bg.png');
+	background-size: 100% 100%;
+}
+
+.viewDataImage{
+		height: 30%;
+		width: 30%;
+}
+
+#loginLogo{
+	margin-left: 30%;
+	margin-right: 30%;
+	width: 40%;
+	height: 10%;
+	margin-top: 10%;
+}
+
+.loginItem{
+	margin-left: 20%;
+	margin-right: 40%;
+	width: 40%;
+	text-align: right;
+}
+
+#loginButton{
+	margin-left: 40%;
+	margin-right: 40%;
+	width: 20%;
+}
+
+.uploadItem{
+	margin-left: 20%;
+	margin-right: 40%;
+	width: 40%;
+	text-align: left;
+}
+
